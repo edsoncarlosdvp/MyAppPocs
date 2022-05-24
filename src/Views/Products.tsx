@@ -25,18 +25,14 @@ export function Products() {
         <Button title="Voltar" onPress={() => navigation.goBack()} />
       </View>
       <View
-        style={{
-          width: '50%',
-          backgroundColor: 'red',
-          borderWidth: 2,
-          borderColor: 'white',
-        }}>
+        style={styles.container}>
         <Text
-          style={{
-            fontSize: 24,
-            color: 'white',
-          }}>
+          style={styles.title}>
           Produtos
+        </Text>
+        <Text
+          style={styles.description}>
+          Descrição dos produtos
         </Text>
         <Button title="Voltar" onPress={() => navigation.goBack()} />
       </View>
