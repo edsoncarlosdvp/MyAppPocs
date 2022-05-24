@@ -1,8 +1,8 @@
-import {createDrawerNavigator} from '@react-navigation/drawer';
+import { createDrawerNavigator } from '@react-navigation/drawer';
 import React from 'react';
-import {Details} from '../Views/Details';
-import {Home} from '../Views/Home';
-import {Products} from '../Views/Products';
+import { Details } from '../Views/Details';
+import { Home } from '../Views/Home';
+import { Products } from '../Views/Products';
 
 const {Navigator, Screen} = createDrawerNavigator();
 
