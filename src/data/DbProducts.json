@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "cleaning": [
+        {
+          "id": "01",
+          "name": "Amaciante Confort Concentrado",
+          "description": "Deixe as suas roupas macias e cheirosa com Confort.",
+          "price": "R$ 60,79",
+          "thumb": "https://a-static.mlcdn.com.br/800x560/amaciante-comfort-profissional-classic-10l/magazineluiza/224489800/d7097e060ee2c2993c776b24e8dce713.jpg"
+        },
+        {
+          "id": "02",
+          "name": "Kit Sabão Líquido Omo Lavagem Perfeita - 5L - 2 Unidades",
+          "description": "Conheça o novo sabão líquido Omo Lavagem Perfeita. Sua nova fórmula, permite remover as manchas de primeira, cuidar das cores e dos tecidos e entrega um poder de limpeza tanto para roupas delicadas quanto pesadas",
+          "price": "R$ 120,00",
+          "thumb": "https://a-static.mlcdn.com.br/800x560/kit-sabao-liquido-omo-lavagem-perfeita-5l-2-unidades/magazineluiza/229195200/ef979fa07d2fc090bed30569c42acf82.jpg"
+        },
+        {
+          "id": "03",
+          "name": "Sabão líquido Brilhante",
+          "description": "O sabão líquido Brilhante Limpeza Total combina os melhores resultados de limpeza com a proteção das cores dos tecidos.",
+          "price": "R$ 42,98",
+          "thumb": "https://a-static.mlcdn.com.br/800x560/sabao-liquido-brilhante-limpeza-total-5l/magazineluiza/222260500/65ba0326b964c564dfbd9c9cdb6cd877.jpg"
+        },
+        {
+          "id": "04",
+          "name": "Sabão em Barra Minuano",
+          "description": "Com o Sabão em barra glicerinado Minuano Neutro 1kg você terá um importante aliado na limpeza de louças, panelas, tecidos e superfícies em geral.",
+          "price": "R$ 12,48",
+          "thumb": "https://a-static.mlcdn.com.br/800x560/sabao-em-barra-minuano-neutro-1kg-5-unidades/magazineluiza/226766900/72b7e699f4f3175c42bb0d92c0457475.jpg"
+        }
+      ],
+      "food": [
+        {
+          "id": "05",
+          "name": "Soya Oleo de Soja 900ml ( Kit C/5un )",
+          "description": "O óleo de soja é extraído da semente de soja e é utilizado como fonte de alimento e com as novas tecnologias também pode ser usada como biocombustível.",
+          "price": "R$ 58,20",
+          "thumb": "https://a-static.mlcdn.com.br/800x560/soya-oleo-de-soja-900ml-kit-c-5un/victorcunha/83fdc59a901311ec87b84201ac185055/c4c7fefa8c83f0d31ea9978ca9abc458.jpg"
+        },
+        {
+          "id": "06",
+          "name": "Azeite de Oliva Gallo Clássico Extravirgem 500ml",
+          "description": "Se você deseja deixar seus pratos mais saborosos, o azeite Clássico da Gallo é o produto ideal.",
+          "price": "R$ 28,90",
+          "thumb": "https://a-static.mlcdn.com.br/800x560/azeite-de-oliva-gallo-classico-extravirgem-500ml/magazineluiza/225388400/fd43d8b63bd9bab3a7274ec84fc5afa0.jpg"
+        },
+        {
+          "id": "07",
+          "name": "Amido de Milho Maizena - 500g",
+          "description": "O Amido de Milho Maizena 500g é a melhor opção para quem deseja toda a qualidade e tradição de Maizena no preparo de suas receitas. É o amigo preferido de quem gosta de cozinhar. Maizena é a opção perfeita para ser usada nas suas receitas tradicionais, para deixar seus bolos fofinhos, o mingau mais cremoso e o biscoito crocante, deixando sempre seus pratos deliciosos e memoráveis.",
+          "price": "R$ 11,90",
+          "thumb": "https://a-static.mlcdn.com.br/800x560/amido-de-milho-maizena-500g/magazineluiza/225537100/39db400f6baa100186484d67e3d57179.jpg"
+        },
+        {
+          "id": "08",
+          "name": "Café Torrado Em Grãos 100% Arábica Gourmet Café Italle 1 Kg",
+          "description": "Café Italle Torrado Arábica Em Grãos - 1KgTORRAS REALIZADAS DE 15 EM 15 DIAS !!!!!Uma paixão de família que se profissionalizou, e hoje traz os melhores cafés de pequenos produtores brasileiros para a mesa de cada família.",
+          "price": "R$ 42,48",
+          "thumb": "https://a-static.mlcdn.com.br/800x560/cafe-torrado-em-graos-100-arabica-gourmet-cafe-italle-1-kg/cafeitallecomercio/b903dd962d1d11eca63f4201ac185049/53f210932e499d80491c77c12f8250be.jpeg"
+        }
+      ],
+      "hygiene": [
+        {
+          "id": "09",
+          "name": "Papel Higiênico Carinho Premium Leve12 e Pague11 20m",
+          "description": "O Papel Higiênico Carinho Premium é fabricado com folhas duplas, é um papel produzido 100% com celulose virgem de origem certificada e possui um toque extremamente macio. Perfeito para sua casa!",
+          "price": "R$ 11,69",
+          "thumb": "https://a-static.mlcdn.com.br/800x560/papel-higienico-carinho-premium-leve12-e-pague11-20m/farmaciaindiana/158130/81960bdad0985012ad93a1c3bbe1d6a3.jpg"
+        },
+        {
+          "id": "10",
+          "name": "Desodorante Antitranspirante Aerossol Rexona - Powder Dry Feminino 72 Horas 150ml",
+          "description": "O Papel Higiênico Carinho Premium é fabricado com folhas duplas, é um papel produzido 100% com celulose virgem de origem certificada e possui um toque extremamente macio. Perfeito para sua casa!",
+          "price": "R$ 11,49",
+          "thumb": "https://a-static.mlcdn.com.br/800x560/desodorante-antitranspirante-aerossol-rexona-powder-dry-feminino-72-horas-150ml/magazineluiza/221370900/81a52216ca58aa1eb2bd6860799dbbaf.jpg"
+        }
+      ]
+    }
+  ]
+}
