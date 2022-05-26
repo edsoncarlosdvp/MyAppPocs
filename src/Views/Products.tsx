@@ -1,17 +1,37 @@
 import { useNavigation } from '@react-navigation/native';
 import React from 'react';
-import { Button, Text, View } from 'react-native';
+import { Button, FlatList, Text, View } from 'react-native';
+import { ListItem } from 'react-native-elements';
 import { styles } from '../Styles/Styles';
 
-type ParamsProps = {
-  name: string;
+type ProductsProps = {
+  products: []
 };
 
-export function Products() {
+export function Products({ products }: ProductsProps) {
   const navigation = useNavigation();
+
+  const showAllProducts = ({ item: products }: any) => {
+    return (
+      <ListItem
+        key={products.id}
+        name={products.name}
+        description={products.description}
+        price={products.price}
+        thumb={products.thumb}
+      />
+    )
+  }
 
   return (
     <>
+      <View>
+        <FlatList
+          keyExtractor={products => products.id}
+          data={products}
+          renderItem={showAllProducts}
+        />
+      </View>
       <View
         style={styles.container}>
         <Text

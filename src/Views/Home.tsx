@@ -7,7 +7,7 @@ export function Home() {
 
   return (
     <SafeAreaView style={styles.containerHome}>
-      <Products />
+      <Products products={[]} />
     </SafeAreaView>
   );
 }
